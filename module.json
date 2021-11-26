@@ -3,7 +3,7 @@
   "title": "Manual Rolls FVTT Module",
   "description": "A module to allow to play with real dice entering the results manually rolled with dnd5e system",
   "author": "Bembe83",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "minimumCoreVersion": "0.5.0",
   "dependencies": [
   { 
@@ -30,6 +30,6 @@
   	"style/styles.css"
   ],
   "url": "https://github.com/bembe83/AdvanceAttack",
-  "manifest": "",
-  "download": ""
+  "manifest": "https://github.com/bembe83/FVTTManualRolls5e/releases/download/2.0.0/module.json",
+  "download": "https://github.com/bembe83/FVTTManualRolls5e/releases/download/2.0.0/Archive.zip"
 }
